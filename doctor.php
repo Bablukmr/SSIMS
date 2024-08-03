@@ -57,7 +57,7 @@
 
                     <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
                         <div class="team-member d-flex align-items-start">
-                            <div class="pic"><img src="assets/img/doctors/doctors-1.jpg" class="img-fluid" alt=""></div>
+                            <div class="pic"><img src="assets/img/doctors/Dr_jitendra_kumar_singh.jpg" class="img-fluid" alt=""></div>
                             <div class="member-info">
                                 <h4>Dr. Jitendra Kumar Singh</h4>
                                 <!-- <span>Chief Medical Officer</span> -->

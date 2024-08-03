@@ -147,7 +147,7 @@
                         At SSIMS Hajipur, we provide specialized care for yellow fever, leveraging our expertise and advanced facilities. Our dedicated team offers accurate diagnosis and effective treatment to manage and prevent yellow fever. With a focus on compassionate care and advanced technology, we ensure the best outcomes for our patients.
                     </p>
                     <div class="text-center">
-                        <a href="yellow-fever-treatment.php" class="more-btn"><span>Learn More</span> <i class="bi bi-chevron-right"></i></a>
+                        <a href="#" class="more-btn"><span>Learn More</span> <i class="bi bi-chevron-right"></i></a>
                     </div>
                 </div>
             </div><!-- End Why Box -->

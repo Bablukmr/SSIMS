@@ -44,11 +44,8 @@
 
   <?php include 'header.php'; ?>
   <main class="main">
-<<<<<<< HEAD
  <!-- Header -->
     <?php include 'header.php'; ?>
-=======
->>>>>>> 2db0661bd58a088868edc9cdd63e29674dfef30c
     <!-- Hero Section -->
     <section id="" class="hero section light-background">
 

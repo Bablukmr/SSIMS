@@ -59,7 +59,11 @@
 <body>
 
     <!-- Header -->
+<<<<<<< HEAD
   <header id="header" class="header sticky-top">
+=======
+    <header id="header" class="header sticky-top">
+>>>>>>> 2db0661bd58a088868edc9cdd63e29674dfef30c
         <div class="topbar d-flex align-items-center">
             <div class="container d-flex justify-content-center justify-content-md-between">
                 <div class="contact-info d-flex align-items-center">
